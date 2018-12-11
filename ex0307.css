@@ -1,0 +1,25 @@
+.main {
+    list-style-type: upper-roman;
+}
+.OutlistC {
+    background-color: pink;
+}
+.MidlistC {
+    list-style-type: upper-alpha;
+}
+.OutlistM {
+    background-color: blue;
+}
+.MidlistM {
+    list-style-type: upper-alpha; 
+}
+.OutlistS {
+    background-color: red;
+}
+.MidlistS {
+    list-style-type: upper-alpha;
+}
+footer {
+    background-color: lightskyblue;
+    color: red;
+}
